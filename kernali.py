@@ -22,7 +22,7 @@ from scipy.spatial.distance import pdist, squareform
 import numpy as np
 from numpy import random
 import matplotlib.pyplot as plt
-import sys #only needed to determine Python version number
+#import sys #only needed to determine Python version number
 import matplotlib #only needed to determine Matplotlib version number
 #for plotting distance matrix
 import scipy.spatial as sp, scipy.cluster.hierarchy as hc
