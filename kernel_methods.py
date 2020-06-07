@@ -3,6 +3,7 @@ import numpy as np
 from scipy.spatial.distance import pdist
 from sklearn.metrics.pairwise import pairwise_kernels
 from sklearn.metrics.pairwise import rbf_kernel
+from scipy.linalg import norm
 
 
 def estim_gammakernel_median(X, nb_samples_max=300):
