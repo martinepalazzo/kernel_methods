@@ -1,3 +1,12 @@
+____
+# Universite de Technologie de Troyes__<br/>
+# Universidad Tecnologica Nacional Buenos Aires__<br/
+# Martin Palazzo__<br/>
+# code author: mpalazzo@frba.utn.edu.ar__<br/>
+# Useful kernel methods functions
+
+
+
 # kernel methods
 import numpy as np
 from scipy.spatial.distance import pdist
